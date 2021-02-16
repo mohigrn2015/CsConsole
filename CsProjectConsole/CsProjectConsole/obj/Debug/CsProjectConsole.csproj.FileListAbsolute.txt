@@ -1,0 +1,19 @@
+C:\Users\Admin\Desktop\CsProjectConsole\CsProjectConsole\bin\Debug\CsProjectConsole.exe.config
+C:\Users\Admin\Desktop\CsProjectConsole\CsProjectConsole\bin\Debug\CsProjectConsole.exe
+C:\Users\Admin\Desktop\CsProjectConsole\CsProjectConsole\bin\Debug\CsProjectConsole.pdb
+C:\Users\Admin\Desktop\CsProjectConsole\CsProjectConsole\obj\Debug\CsProjectConsole.exe
+C:\Users\Admin\Desktop\CsProjectConsole\CsProjectConsole\obj\Debug\CsProjectConsole.pdb
+C:\Users\Admin\Desktop\CsProjectConsole\CsProjectConsole\obj\Debug\CsProjectConsole.csprojAssemblyReference.cache
+E:\Mohiuddin_44\C#Projects\CsProjectConsole\CsProjectConsole\bin\Debug\CsProjectConsole.exe.config
+E:\Mohiuddin_44\C#Projects\CsProjectConsole\CsProjectConsole\bin\Debug\CsProjectConsole.exe
+E:\Mohiuddin_44\C#Projects\CsProjectConsole\CsProjectConsole\bin\Debug\CsProjectConsole.pdb
+E:\Mohiuddin_44\C#Projects\CsProjectConsole\CsProjectConsole\obj\Debug\CsProjectConsole.csprojAssemblyReference.cache
+E:\Mohiuddin_44\C#Projects\CsProjectConsole\CsProjectConsole\obj\Debug\CsProjectConsole.exe
+E:\Mohiuddin_44\C#Projects\CsProjectConsole\CsProjectConsole\obj\Debug\CsProjectConsole.pdb
+F:\C# Project\Projects\CsProjectConsole\CsProjectConsole\bin\Debug\CsProjectConsole.exe.config
+F:\C# Project\Projects\CsProjectConsole\CsProjectConsole\bin\Debug\CsProjectConsole.exe
+F:\C# Project\Projects\CsProjectConsole\CsProjectConsole\bin\Debug\CsProjectConsole.pdb
+F:\C# Project\Projects\CsProjectConsole\CsProjectConsole\obj\Debug\CsProjectConsole.csprojAssemblyReference.cache
+F:\C# Project\Projects\CsProjectConsole\CsProjectConsole\obj\Debug\CsProjectConsole.exe
+F:\C# Project\Projects\CsProjectConsole\CsProjectConsole\obj\Debug\CsProjectConsole.pdb
+F:\C# Project\Projects\CsProjectConsole\CsProjectConsole\obj\Debug\CsProjectConsole.csproj.CoreCompileInputs.cache
